@@ -1,11 +1,15 @@
 13agony|qlrace_turbo
 13agony_ctf|qlrace_turbo
 13camp|qlrace_turbo
+13dream_xt|qlrace_turbo
 13hive|qlrace_turbo
+13plant|qlrace_turbo
 1lnc|qlrace_turbo
 aa_dmb|qlrace_turbo
 aa_hate|qlrace_turbo
+aa_lum|qlrace_turbo
 aa_oldtemple|qlrace_turbo
+aa_rmg2|qlrace_turbo
 aa_shades|qlrace_turbo
 acrobat_torture1|qlrace_turbo
 actf01|qlrace_turbo
@@ -48,9 +52,12 @@ actf38|qlrace_turbo
 actf40|qlrace_turbo
 actf41|qlrace_turbo
 airmaxjumps|qlrace_turbo
+ameisen_comp2|qlrace_turbo
 anglepain|qlrace_turbo
+apex|qlrace_turbo
 arkinholm|qlrace_turbo
 ashley|qlrace_turbo
+assfag|qlrace_turbo
 augckjlum6|qlrace_turbo
 bardok_w3sp|qlrace_turbo
 basesiege|qlrace_turbo
@@ -66,6 +73,7 @@ bloodydave|qlrace_turbo
 bloxrox|qlrace_turbo
 bloxrox2|qlrace_turbo
 bloxstrafe|qlrace_turbo
+blub|qlrace_turbo
 boris_torture1|qlrace_turbo
 bounce|qlrace_turbo
 brimstoneabbey|qlrace_turbo
@@ -104,6 +112,7 @@ cruton6|qlrace_turbo
 cubicle|qlrace_turbo
 cursed|qlrace_turbo
 cursed_temple|qlrace_turbo
+daytime|qlrace_turbo
 deepinside|qlrace_turbo
 df_0ups|qlrace_turbo
 df_24run|qlrace_turbo
@@ -202,6 +211,7 @@ df_vq3x2|qlrace_turbo
 df_vq3x3|qlrace_turbo
 df_vq3x4|qlrace_turbo
 df_vq3x5|qlrace_turbo
+dfwc_xlarve|qlrace_turbo
 diniruns|qlrace_turbo
 distantscreams|qlrace_turbo
 dividedcrossings|qlrace_turbo
@@ -267,6 +277,7 @@ jumpwerkz|qlrace_turbo
 just_jump_2|qlrace_turbo
 just_jump_3|qlrace_turbo
 k4n|qlrace_turbo
+kakao|qlrace_turbo
 koz25|qlrace_turbo
 kozmini1|qlrace_turbo
 kozmini2|qlrace_turbo
@@ -294,6 +305,7 @@ overlord|qlrace_turbo
 pasteyrox|qlrace_turbo
 pb_run|qlrace_turbo
 pea_impostor|qlrace_turbo
+pgultimate|qlrace_turbo
 pillbox|qlrace_turbo
 piyojump2|qlrace_turbo
 plasma_climb|qlrace_turbo
@@ -304,6 +316,7 @@ pornstar_quickie2|qlrace_turbo
 pulpfriction|qlrace_turbo
 purpletorture|qlrace_turbo
 puzzlemap|qlrace_turbo
+q3dm17|qlrace_turbo
 q3w1|qlrace_turbo
 q3w4|qlrace_turbo
 q3w6|qlrace_turbo
@@ -341,6 +354,8 @@ r7_coyote|qlrace_turbo
 r7_habitual|qlrace_turbo
 r7_hedges|qlrace_turbo
 r7_hog|qlrace_turbo
+r7_inka|qlrace_turbo
+r7_longevity1|qlrace_turbo
 r7_pyramid|qlrace_turbo
 r7_romo|qlrace_turbo
 r7_sanity|qlrace_turbo
@@ -359,6 +374,8 @@ rocketx|qlrace_turbo
 run139|qlrace_turbo
 rundontstop|qlrace_turbo
 runhall|qlrace_turbo
+runkull|qlrace_turbo
+run_quake|qlrace_turbo
 runsonic|qlrace_turbo
 runstolfer|qlrace_turbo
 sarcasmjump|qlrace_turbo
@@ -378,6 +395,7 @@ sodomia|qlrace_turbo
 spacechamber|qlrace_turbo
 spacectf|qlrace_turbo
 spidercrossings|qlrace_turbo
+spiderman|qlrace_turbo
 spr_gpl|qlrace_turbo
 srr2k5|qlrace_turbo
 st1|qlrace_turbo
@@ -409,6 +427,7 @@ think1|qlrace_turbo
 timelock2|qlrace_turbo
 timelock3|qlrace_turbo
 timelock4|qlrace_turbo
+tinyplams|qlrace_turbo
 torque|qlrace_turbo
 tranquil|qlrace_turbo
 trinity|qlrace_turbo
@@ -436,6 +455,7 @@ wraiths|qlrace_turbo
 wsm|qlrace_turbo
 wub_junk|qlrace_turbo
 xproject|qlrace_turbo
+xyligan|qlrace_turbo
 yellowtorture|qlrace_turbo
 zeel_ponpon|qlrace_turbo
 zen|qlrace_turbo

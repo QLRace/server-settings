@@ -1,11 +1,15 @@
 13agony|qlrace_classic
 13agony_ctf|qlrace_classic
 13camp|qlrace_classic
+13dream_xt|qlrace_classic
 13hive|qlrace_classic
+13plant|qlrace_classic
 1lnc|qlrace_classic
 aa_dmb|qlrace_classic
 aa_hate|qlrace_classic
+aa_lum|qlrace_classic
 aa_oldtemple|qlrace_classic
+aa_rmg2|qlrace_classic
 aa_shades|qlrace_classic
 acrobat_torture1|qlrace_classic
 actf01|qlrace_classic
@@ -48,9 +52,12 @@ actf38|qlrace_classic
 actf40|qlrace_classic
 actf41|qlrace_classic
 airmaxjumps|qlrace_classic
+ameisen_comp2|qlrace_classic
 anglepain|qlrace_classic
+apex|qlrace_classic
 arkinholm|qlrace_classic
 ashley|qlrace_classic
+assfag|qlrace_classic
 augckjlum6|qlrace_classic
 bardok_w3sp|qlrace_classic
 basesiege|qlrace_classic
@@ -66,6 +73,7 @@ bloodydave|qlrace_classic
 bloxrox|qlrace_classic
 bloxrox2|qlrace_classic
 bloxstrafe|qlrace_classic
+blub|qlrace_classic
 boris_torture1|qlrace_classic
 bounce|qlrace_classic
 brimstoneabbey|qlrace_classic
@@ -104,6 +112,7 @@ cruton6|qlrace_classic
 cubicle|qlrace_classic
 cursed|qlrace_classic
 cursed_temple|qlrace_classic
+daytime|qlrace_classic
 deepinside|qlrace_classic
 df_0ups|qlrace_classic
 df_24run|qlrace_classic
@@ -202,6 +211,7 @@ df_vq3x2|qlrace_classic
 df_vq3x3|qlrace_classic
 df_vq3x4|qlrace_classic
 df_vq3x5|qlrace_classic
+dfwc_xlarve|qlrace_classic
 diniruns|qlrace_classic
 distantscreams|qlrace_classic
 dividedcrossings|qlrace_classic
@@ -267,6 +277,7 @@ jumpwerkz|qlrace_classic
 just_jump_2|qlrace_classic
 just_jump_3|qlrace_classic
 k4n|qlrace_classic
+kakao|qlrace_classic
 koz25|qlrace_classic
 kozmini1|qlrace_classic
 kozmini2|qlrace_classic
@@ -294,6 +305,7 @@ overlord|qlrace_classic
 pasteyrox|qlrace_classic
 pb_run|qlrace_classic
 pea_impostor|qlrace_classic
+pgultimate|qlrace_classic
 pillbox|qlrace_classic
 piyojump2|qlrace_classic
 plasma_climb|qlrace_classic
@@ -304,6 +316,7 @@ pornstar_quickie2|qlrace_classic
 pulpfriction|qlrace_classic
 purpletorture|qlrace_classic
 puzzlemap|qlrace_classic
+q3dm17|qlrace_classic
 q3w1|qlrace_classic
 q3w4|qlrace_classic
 q3w6|qlrace_classic
@@ -341,6 +354,8 @@ r7_coyote|qlrace_classic
 r7_habitual|qlrace_classic
 r7_hedges|qlrace_classic
 r7_hog|qlrace_classic
+r7_inka|qlrace_classic
+r7_longevity1|qlrace_classic
 r7_pyramid|qlrace_classic
 r7_romo|qlrace_classic
 r7_sanity|qlrace_classic
@@ -359,6 +374,8 @@ rocketx|qlrace_classic
 run139|qlrace_classic
 rundontstop|qlrace_classic
 runhall|qlrace_classic
+runkull|qlrace_classic
+run_quake|qlrace_classic
 runsonic|qlrace_classic
 runstolfer|qlrace_classic
 sarcasmjump|qlrace_classic
@@ -378,6 +395,7 @@ sodomia|qlrace_classic
 spacechamber|qlrace_classic
 spacectf|qlrace_classic
 spidercrossings|qlrace_classic
+spiderman|qlrace_classic
 spr_gpl|qlrace_classic
 srr2k5|qlrace_classic
 st1|qlrace_classic
@@ -409,6 +427,7 @@ think1|qlrace_classic
 timelock2|qlrace_classic
 timelock3|qlrace_classic
 timelock4|qlrace_classic
+tinyplams|qlrace_classic
 torque|qlrace_classic
 tranquil|qlrace_classic
 trinity|qlrace_classic
@@ -436,6 +455,7 @@ wraiths|qlrace_classic
 wsm|qlrace_classic
 wub_junk|qlrace_classic
 xproject|qlrace_classic
+xyligan|qlrace_classic
 yellowtorture|qlrace_classic
 zeel_ponpon|qlrace_classic
 zen|qlrace_classic
