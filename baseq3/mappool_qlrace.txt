@@ -449,7 +449,6 @@ walkathon|qlrace_turbo
 warehouse|qlrace_turbo
 weirdwild|qlrace_turbo
 wernerjump|qlrace_turbo
-wintersedge|qlrace_turbo
 woftct|qlrace_turbo
 wraiths|qlrace_turbo
 wsm|qlrace_turbo

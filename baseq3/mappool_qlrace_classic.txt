@@ -449,7 +449,6 @@ walkathon|qlrace_classic
 warehouse|qlrace_classic
 weirdwild|qlrace_classic
 wernerjump|qlrace_classic
-wintersedge|qlrace_classic
 woftct|qlrace_classic
 wraiths|qlrace_classic
 wsm|qlrace_classic
