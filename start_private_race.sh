@@ -35,8 +35,4 @@ exec /home/steam/qlds/run_server_x64_minqlx.sh \
     +set qlx_cleverBotUser $CB_USER \
     +set qlx_raceKey $RACE_KEY \
     +set qlx_raceMode $mode \
-    +set qlx_servers "nl.qlrace.com:27960, nl.qlrace.com:27961, de.qlrace.com:27960, de.qlrace.com:27961,
-                      de.qlrace.com:27962, de.qlrace.com:27963, de.qlrace.com:27970, de.qlrace.com:27971,
-                      de.qlrace.com:27972, de.qlrace.com:27973, il.qlrace.com:27960, il.qlrace.com:27961,
-                      il.qlrace.com:27962, il.qlrace.com:27970, il.qlrace.com:27971, au.qlrace.com:27960,
-                      au.qlrace.com:27961, au.qlrace.com:27970, au.qlrace.com:27971"
+    +set qlx_servers "nl.qlrace.com:27960, nl.qlrace.com:27961, de.qlrace.com:27960, de.qlrace.com:27961, de.qlrace.com:27962, de.qlrace.com:27963, de.qlrace.com:27970, de.qlrace.com:27971, de.qlrace.com:27972, de.qlrace.com:27973, il.qlrace.com:27960, il.qlrace.com:27961, il.qlrace.com:27962, il.qlrace.com:27970, il.qlrace.com:27971, au.qlrace.com:27960, au.qlrace.com:27961, au.qlrace.com:27970, au.qlrace.com:27971"
