@@ -3,7 +3,6 @@ cd ~/qlds/baseq3 || exit 1
 source private.sh || exit 1
 
 if [[ $1 == turbo ]]; then
-    mode=0
     gamePort=$((27959 + $2))
     rconPort=$((gamePort + 1000))
     mapPool="mappool_qlrace.txt"
@@ -11,7 +10,6 @@ if [[ $1 == turbo ]]; then
     modeNumber=0
     modeTags="Turbo,PQL"
 elif [[ $1 == classic ]]; then
-    mode=2
     gamePort=$((27969 + $2))
     rconPort=$((gamePort + 1000))
     mapPool="mappool_qlrace_classic.txt"
