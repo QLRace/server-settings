@@ -181,3 +181,5 @@
 726136909 # The Omnipresent Eye(lloydmdm1)
 740959558 # p3nt4-ralco
 726135771 # Rotten soul(q3shw25) checkpoints added by w_w and trueriot
+742002195 # r7_timelock
+742002548 # fun_maze_cbble
