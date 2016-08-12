@@ -237,6 +237,7 @@ flexzstrafe|qlrace_classic
 fluorescent|qlrace_classic
 foolishlegacy|qlrace_classic
 funjumpsmap|qlrace_classic
+fun_maze_cbble|qlrace_classic
 futurecrossings|qlrace_classic
 fy_poolparty|qlrace_classic
 garlock_egyptianrun|qlrace_classic
@@ -317,6 +318,7 @@ pulpfriction|qlrace_classic
 purpletorture|qlrace_classic
 puzzlemap|qlrace_classic
 q3dm17|qlrace_classic
+q3shw25|qlrace_classic
 q3w1|qlrace_classic
 q3w4|qlrace_classic
 q3w6|qlrace_classic

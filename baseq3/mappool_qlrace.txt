@@ -237,6 +237,7 @@ flexzstrafe|qlrace_turbo
 fluorescent|qlrace_turbo
 foolishlegacy|qlrace_turbo
 funjumpsmap|qlrace_turbo
+fun_maze_cbble|qlrace_turbo
 futurecrossings|qlrace_turbo
 fy_poolparty|qlrace_turbo
 garlock_egyptianrun|qlrace_turbo
@@ -317,6 +318,7 @@ pulpfriction|qlrace_turbo
 purpletorture|qlrace_turbo
 puzzlemap|qlrace_turbo
 q3dm17|qlrace_turbo
+q3shw25|qlrace_turbo
 q3w1|qlrace_turbo
 q3w4|qlrace_turbo
 q3w6|qlrace_turbo
