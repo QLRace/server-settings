@@ -183,3 +183,4 @@
 726135771 # Rotten soul(q3shw25) checkpoints added by w_w and trueriot
 742002195 # r7_timelock
 742002548 # fun_maze_cbble
+726132863 # Time to die(q3shw19) checkpoints added by w_w and trueriot
