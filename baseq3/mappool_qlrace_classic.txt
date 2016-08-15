@@ -303,6 +303,7 @@ nmn|qlrace_classic
 northrun|qlrace_classic
 oilrig|qlrace_classic
 overlord|qlrace_classic
+p3nt4_ralco|qlrace_classic
 pasteyrox|qlrace_classic
 pb_run|qlrace_classic
 pea_impostor|qlrace_classic
@@ -318,6 +319,7 @@ pulpfriction|qlrace_classic
 purpletorture|qlrace_classic
 puzzlemap|qlrace_classic
 q3dm17|qlrace_classic
+q3shw19|qlrace_classic
 q3shw25|qlrace_classic
 q3w1|qlrace_classic
 q3w4|qlrace_classic
@@ -362,6 +364,7 @@ r7_pyramid|qlrace_classic
 r7_romo|qlrace_classic
 r7_sanity|qlrace_classic
 r7_tang|qlrace_classic
+r7_timelock|qlrace_classic
 ragnarok|qlrace_classic
 railyard|qlrace_classic
 randommap|qlrace_classic

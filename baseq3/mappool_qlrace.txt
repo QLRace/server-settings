@@ -303,6 +303,7 @@ nmn|qlrace_turbo
 northrun|qlrace_turbo
 oilrig|qlrace_turbo
 overlord|qlrace_turbo
+p3nt4_ralco|qlrace_turbo
 pasteyrox|qlrace_turbo
 pb_run|qlrace_turbo
 pea_impostor|qlrace_turbo
@@ -318,6 +319,7 @@ pulpfriction|qlrace_turbo
 purpletorture|qlrace_turbo
 puzzlemap|qlrace_turbo
 q3dm17|qlrace_turbo
+q3shw19|qlrace_turbo
 q3shw25|qlrace_turbo
 q3w1|qlrace_turbo
 q3w4|qlrace_turbo
@@ -362,6 +364,7 @@ r7_pyramid|qlrace_turbo
 r7_romo|qlrace_turbo
 r7_sanity|qlrace_turbo
 r7_tang|qlrace_turbo
+r7_timelock|qlrace_turbo
 ragnarok|qlrace_turbo
 railyard|qlrace_turbo
 randommap|qlrace_turbo
