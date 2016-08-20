@@ -184,3 +184,5 @@
 742002195 # r7_timelock
 742002548 # fun_maze_cbble
 726132863 # Time to die(q3shw19) checkpoints added by w_w and trueriot
+748183219 # aa_way
+748183485 # aa_shorty
