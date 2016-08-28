@@ -6,14 +6,14 @@ if [[ $1 == turbo ]]; then
     gamePort=$((27959 + $2))
     rconPort=$((gamePort + 1000))
     mapPool="mappool_qlrace.txt"
-    mode="Turbo(PQL)"
+    mode="Turbo (PQL)"
     modeNumber=0
     modeTags="Turbo,PQL"
 elif [[ $1 == classic ]]; then
     gamePort=$((27969 + $2))
     rconPort=$((gamePort + 1000))
     mapPool="mappool_qlrace_classic.txt"
-    mode="Classic(VQL)"
+    mode="Classic (VQL)"
     modeNumber=2
     modeTags="Classic,VQL"
 else
