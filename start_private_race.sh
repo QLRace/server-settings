@@ -7,13 +7,13 @@ if [[ $1 == "turbo" ]]; then
     gamePort=27960
     rconPort=28960
     mapPool="mappool_qlrace.txt"
-    hostname="QLRace.com Private - Turbo(PQL)"
+    hostname="QLRace.com Private - Turbo (PQL)"
 elif [[ $1 == "classic" ]]; then
     mode=2
     gamePort=27961
     rconPort=28961
     mapPool="mappool_qlrace_classic.txt"
-    hostname="QLRace.com Private - Classic(VQL)"
+    hostname="QLRace.com Private - Classic (VQL)"
 else
     exit 1
 fi
