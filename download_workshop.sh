@@ -8,7 +8,7 @@
 qldsPath="$HOME/qlds"
 steamcmdPath="$HOME/steamcmd"
 
-workshopIDs=$(egrep -v '^(#|$)' $qldsPath/baseq3/workshop.txt | awk '{ print $1}')
+workshopIDs=$(awk '{if ($1 !="#" && $1 != "") print $1}' $qldsPath/baseq3/workshop.txt)
 numOfIDs=$(echo "$workshopIDs" | wc -l)
 
 i=1
