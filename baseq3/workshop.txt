@@ -193,3 +193,5 @@
 760192833 # uprising
 760748076 # tr1ckhouse
 761370715 # Quake - Episode 1
+763108658 # zalupa
+763108971 # pasta
