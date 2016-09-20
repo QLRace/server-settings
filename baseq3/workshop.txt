@@ -200,3 +200,5 @@
 764624299 # riwarun2
 766452254 # aa_torture
 766452706 # aa_fall
+767071698 # pyramid_strafe
+767072138 # bozer2
