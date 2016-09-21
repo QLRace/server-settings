@@ -203,3 +203,5 @@
 767071698 # pyramid_strafe
 767072138 # bozer2
 767184760 # retribution_race
+767471748 # effect_torture2
+767472162 # cube_torture
