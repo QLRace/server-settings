@@ -207,3 +207,6 @@
 767472162 # cube_torture
 768007245 # track_comp
 768101724 # snakejumps2
+768220010 # applejump_b1
+768393241 # runpharao
+768393486 # bardok_egypt
