@@ -205,8 +205,10 @@
 767184760 # retribution_race
 767471748 # effect_torture2
 767472162 # cube_torture
-768007245 # track_comp
+768007245 # track_comp maps
 768101724 # snakejumps2
 768220010 # applejump_b1
 768393241 # runpharao
 768393486 # bardok_egypt
+770034031 # dfru_xlarve
+770050111 # track
