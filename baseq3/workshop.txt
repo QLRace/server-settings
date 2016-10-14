@@ -223,3 +223,5 @@
 779720683 # schody
 780084672 # heaven_or_hell
 569570727 # Freestyle Map Pack 1
+780750886 # cpu_egypt
+780751289 # bug4
