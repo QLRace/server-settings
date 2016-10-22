@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.5
 '''
-Updates a players name using the steam api and sets 'minqlx:player:<steam_id>' to [<name>].
+Updates a players name using the steam api and pushes it to 'minqlx:player:<steamid>'.
 '''
 
 import redis
@@ -19,10 +19,12 @@ else:
 
 for key in r.sscan_iter('minqlx:players'):
     steam_id = key.decode('UTF-8')
-    print('minqlx:player:{}'.format(steam_id))
+    print(steam_id, end=",", flush=True)
 
     response = requests.get('{}&steamids=[{}]'.format(url, steam_id)).json()['response']
     name = response['players'][0]['personaname']
     names_key = 'minqlx:players:{}'.format(steam_id)
-    r.lpush(names_key, name)
-    r.ltrim(names_key, 0, 0)
+    if r.lindex(names_key, 0).decode('UTF-8') != name:
+        r.lrem(names_key, 0, name)
+        r.lpush(names_key, name)
+    r.ltrim(names_key, 0, 19)
