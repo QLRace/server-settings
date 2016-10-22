@@ -25,7 +25,7 @@ for key in r.sscan_iter('minqlx:players'):
     name = response['players'][0]['personaname']
     names_key = 'minqlx:players:{}'.format(steam_id)
     current_name = r.lindex(names_key, 0)
-    if current_name is not None && current_name.decode('UTF-8') != name:
+    if current_name is not None and current_name.decode('UTF-8') != name:
         r.lrem(names_key, 0, name)
         r.lpush(names_key, name)
     r.ltrim(names_key, 0, 19)
