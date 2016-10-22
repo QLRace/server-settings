@@ -17,15 +17,23 @@ else:
     print('STEAM_API_KEY environment variable is not set!')
     sys.exit()
 
+steam_ids = []
 for key in r.sscan_iter('minqlx:players'):
-    steam_id = key.decode('UTF-8')
-    print(steam_id, end=",", flush=True)
+    steam_ids.append(key.decode('UTF-8'))
 
-    response = requests.get('{}&steamids=[{}]'.format(url, steam_id)).json()['response']
-    name = response['players'][0]['personaname']
-    names_key = 'minqlx:players:{}'.format(steam_id)
-    current_name = r.lindex(names_key, 0)
-    if current_name is not None and current_name.decode('UTF-8') != name:
-        r.lrem(names_key, 0, name)
-        r.lpush(names_key, name)
-    r.ltrim(names_key, 0, 19)
+chunks = [steam_ids[x:x+100] for x in range(0, len(steam_ids), 100)]
+total = 0
+
+for chunk in chunks:
+    response = requests.get('{}&steamids={}'.format(url, ",".join(chunk))).json()['response']
+    for player in response['players']:
+        name = player['personaname']
+        steam_id = player['steamid']
+        names_key = 'minqlx:players:{}'.format(steam_id)
+        current_name = r.lindex(names_key, 0)
+        if current_name is not None and current_name.decode('UTF-8') != name:
+            r.lrem(names_key, 0, name)
+            r.lpush(names_key, name)
+        r.ltrim(names_key, 0, 19)
+    total += len(chunk)
+    print("Updated {}/{} player names.".format(total, len(steam_ids)))
