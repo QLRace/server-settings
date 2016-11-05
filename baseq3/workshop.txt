@@ -230,3 +230,5 @@
 784684150 # 18percent
 787650504 # bokluk
 788170512 # charon_remix
+794185395 # sunsetpads
+794188075 # lovet_neit
