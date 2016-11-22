@@ -831,7 +831,7 @@
 "classname" "target_position"
 "targetname" "t170"
 "origin" "844 -1688 132"
-
+}
 {
 "origin" "608 -569 212"
 "spawnflags" "1"
