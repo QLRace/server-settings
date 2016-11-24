@@ -245,3 +245,5 @@
 801066196 # xt4zy_4QL
 801283033 # aa_rmg4
 801283348 # aa_shorty2
+805278557 # thisisamap
+805278778 # telemaze
