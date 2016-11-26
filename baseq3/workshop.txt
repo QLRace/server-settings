@@ -247,3 +247,4 @@
 805278778 # telemaze
 805817131 # xt4zy_nextone
 806146372 # smallypack
+806821616 # jRNG
