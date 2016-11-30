@@ -248,7 +248,6 @@
 805817131 # xt4zy_nextone
 806146372 # smallypack
 806821616 # jRNG
-806957227 # gothic
 808196690 # 10towers
 808465963 # daanstrafe01
 808360370 # stonestrafe2
