@@ -15,3 +15,4 @@ zmq*.py
 !baseq3/mappool_qlrace.txt
 !baseq3/mappool_qlrace_classic.txt
 !baseq3/workshop.txt
+!baseq3/workshop_extra.txt

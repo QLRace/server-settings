@@ -1,3 +1,6 @@
+# QL has a limit of 256 workshop items loaded at once
+#
+# 543328061 # QLRace.com Factories
 539421606 # QL Extras Pack
 539421982 # Holiday Pack
 546209430 # Threewave - q3wpak0
