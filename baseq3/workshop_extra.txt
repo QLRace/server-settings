@@ -1,3 +1,4 @@
 # Extra workshop items since only 256 workshop items can be loaded at once.
 810639815 # sand_blaster
 810640089 # r7_drz
+810885203 # daanstrafe03
