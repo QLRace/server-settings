@@ -253,3 +253,4 @@
 808360370 # stonestrafe2
 809002682 # overworld_race
 809614969 # daanstrafe02
+810579314 # r7_golem
