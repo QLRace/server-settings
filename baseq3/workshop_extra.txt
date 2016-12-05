@@ -6,3 +6,5 @@
 811244172 # r7_mixture
 811564197 # r7_yaq pack (r7_yaq1-3)
 811564505 # mu_nood
+812997654 # speedyctf
+812995502 # kairos_jackson
