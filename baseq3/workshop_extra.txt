@@ -13,3 +13,5 @@
 817812429 # r7_endless
 817813328 # inder_xmas2
 817814056 # inder_stalker2
+818183735 # kairos_torture1-3
+818183882 # boris_torture
