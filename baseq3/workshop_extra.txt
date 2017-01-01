@@ -29,3 +29,4 @@
 830005488 # aa_skypads
 830352170 # daanstrafe06
 831020302 # aa_slope
+832001652 # aa_maze
