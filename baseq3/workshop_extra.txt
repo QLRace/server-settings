@@ -30,3 +30,5 @@
 830352170 # daanstrafe06
 831020302 # aa_slope
 832001652 # aa_maze
+832923893 # daanstrafe07
+832209883 # aa_quake
