@@ -1,6 +1,12 @@
 #!/bin/bash
 # There is a limit of 256 workshop items that can be loaded at once.
-# This script puts the workshop_extra map pk3s into baseq3.
+# This script downloads the workshop items from workshop_extra.txt
+# The pk3s are then moved into baseq3. To allow people who are not
+# subscribed to the workshop item to connect it is required to
+# add the workshop id for the current map to self.game.workshop_items.
+# See here https://github.com/QLRace/minqlx-plugins/blob/master/workshop.py
+# 
+# TODO: merge pk3s into one pk3 file
 qldsPath="$HOME/qlds"
 steamcmdPath="$HOME/steamcmd"
 
