@@ -32,3 +32,5 @@
 832001652 # aa_maze
 832923893 # daanstrafe07
 832209883 # aa_quake
+850088922 # pea_xweirdx
+850731967 # sdc_uk_01
