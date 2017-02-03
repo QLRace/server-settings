@@ -1,0 +1,7 @@
+{
+map         "hexq3ctf1"
+longname    "hexq3ctf1"
+capturelimit   15
+timelimit   0
+type        "ctf race"
+}

@@ -41,9 +41,7 @@
 852978647 # pornvannestrafe1
 853576545 # dkr14
 853576826 # apo2
-728029244 # mlctf1beta (admafi made .ent)
-610695633 # asteroid (admafi made .ent)
-610686214 # hexq3ctf1 (admafi made .ent)
-728522755 # ctf_orange (admafi made .ent)
-
-
+728029244 # mlctf1beta (.ent by admafi)
+610695633 # asteroid (.ent by admafi)
+610686214 # hexq3ctf1 (.ent by admafi)
+728522755 # ctf_orange (.ent by admafi)

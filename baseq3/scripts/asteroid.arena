@@ -1,0 +1,6 @@
+{
+map			"asteroid"
+longname	"Asteroids !"
+capturelimit	8
+type		"ctf race"
+}
