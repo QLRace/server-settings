@@ -11,8 +11,11 @@ zmq*.py
 *.x64
 *.x86
 *.zip
-!baseq3/qlrace_nosounds.pk3
 !baseq3/mappool_qlrace.txt
 !baseq3/mappool_qlrace_classic.txt
 !baseq3/workshop.txt
 !baseq3/workshop_extra.txt
+!baseq3/zz-arena_files.zip
+!baseq3/zz-grenade_sound_rec.pk3
+!baseq3/zz-grenade_sound_rec.pk3
+!baseq3/zz-qlrace_nosounds.pk3
