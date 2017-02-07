@@ -160,26 +160,7 @@
 "origin" "-352 1376 80"
 "classname" "item_health"
 }
-{
-"angle" "315"
-"origin" "-824 2880 -168"
-"classname" "team_CTF_redplayer"
-}
-{
-"classname" "team_CTF_redplayer"
-"origin" "816 2880 -168"
-"angle" "225"
-}
-{
-"classname" "team_CTF_blueplayer"
-"origin" "-824 -128 -168"
-"angle" "45"
-}
-{
-"angle" "135"
-"origin" "824 -128 -168"
-"classname" "team_CTF_blueplayer"
-}
+
 {
 "dmg" "1000"
 "spawnflags" "12"
@@ -467,46 +448,7 @@
 "origin" "592 568 -80"
 "classname" "target_speaker"
 }
-{
-"angle" "225"
-"origin" "224 3080 16"
-"classname" "team_CTF_redplayer"
-}
-{
-"angle" "225"
-"origin" "264 3040 16"
-"classname" "team_CTF_redspawn"
-}
-{
-"classname" "team_CTF_redplayer"
-"origin" "-232 3080 16"
-"angle" "315"
-}
-{
-"classname" "team_CTF_redspawn"
-"origin" "-264 3040 16"
-"angle" "315"
-}
-{
-"classname" "team_CTF_blueplayer"
-"origin" "232 -336 16"
-"angle" "135"
-}
-{
-"classname" "team_CTF_bluespawn"
-"origin" "264 -296 16"
-"angle" "135"
-}
-{
-"angle" "45"
-"origin" "-232 -328 16"
-"classname" "team_CTF_blueplayer"
-}
-{
-"angle" "45"
-"origin" "-264 -288 16"
-"classname" "team_CTF_bluespawn"
-}
+
 
 {
 "target" "end"
