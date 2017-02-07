@@ -21,7 +21,7 @@ for workshopID in $workshopIDs; do
 done;
 
 echo "Removing old pk3s in baseq3 and moving new pk3s into baseq3..."
-find baseq3 -maxdepth 1 -type f -name "*.pk3" ! -name "bin.pk3" ! -name "pak00.pk3" -name "zz-*.pk3" -delete
+find baseq3 -maxdepth 1 -type f -name "*.pk3" ! -name "bin.pk3" ! -name "pak00.pk3" ! -name "zz-*.pk3" -delete
 
 for workshopID in $workshopIDs; do
     mv $steamcmdPath/steamapps/workshop/content/282440/$workshopID/*.pk3 $qldsPath/baseq3/
