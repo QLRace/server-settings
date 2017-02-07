@@ -182,26 +182,7 @@
 "origin" "240 1376 80"
 }
 
-{
-"angle" "135"
-"origin" "856 -88 -168"
-"classname" "team_CTF_bluespawn"
-}
-{
-"classname" "team_CTF_bluespawn"
-"origin" "-856 -88 -168"
-"angle" "45"
-}
-{
-"angle" "315"
-"origin" "-856 2840 -168"
-"classname" "team_CTF_redspawn"
-}
-{
-"classname" "team_CTF_redspawn"
-"origin" "856 2840 -168"
-"angle" "225"
-}
+
 {
 "origin" "856 2776 -176"
 "classname" "weapon_plasmagun"
